@@ -13,7 +13,7 @@
 <!-- - 👯 I’m looking to collaborate on ... -->
 <!-- - 🤔 I’m looking for help with ... -->
 <!-- - 💬 Ask me about ... -->
-- 📫 How to reach me: <797317@pdsb.net> <-- is my email.
+- 📫 How to reach me: <797317@pdsb.net> <-- email.
 - 😄 Pronouns: *He/Him*
 <!-- - ⚡ Fun fact: ... -->
 
