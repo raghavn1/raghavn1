@@ -8,7 +8,7 @@
 **raghavn1/raghavn1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-- 🔭 I’m currently working on a couple of projects including a personal website using Github Pages as well as a [2D side-scrolling platformer game](https://github.com/raghavn1/2DArkham#2darkham) inspired by Batman using LibGDX with Java!
+- 🔭 I’m currently working on a couple of projects including a personal website using Github Pages as well as a [2D side-scrolling platformer game](https://github.com/raghavn1/2DArkham) inspired by Batman using LibGDX with Java!
 - 🌱 I’m currently learning `Java` and I want to learn `JS, HTML, CSS, Tailwind, React, TypeScript, & Node.js`
 <!-- - 👯 I’m looking to collaborate on ... -->
 <!-- - 🤔 I’m looking for help with ... -->
@@ -19,4 +19,7 @@
  ---
 
 - **Projects:** [2DArkham](https://github.com/raghavn1/2DArkham#2darkham)
+
 -- [Personal Website](https://github.com/raghavn1/raghavn1.github.io)
+
+-- [Home](https://github.com/raghavn1)
