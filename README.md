@@ -18,8 +18,9 @@
 <!-- - ⚡ Fun fact: ... -->
  ---
 
-- **Projects:** [2DArkham](https://github.com/raghavn1/2DArkham#2darkham)
+- **Projects:**
+  - [2DArkham](https://github.com/raghavn1/2DArkham#2darkham)
 
--- [Personal Website](https://github.com/raghavn1/raghavn1.github.io)
-
--- [Home](https://github.com/raghavn1)
+  - [Personal Website](https://github.com/raghavn1/raghavn1.github.io)
+  
+  - [Home](https://github.com/raghavn1)
