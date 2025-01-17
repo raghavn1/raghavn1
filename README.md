@@ -1,5 +1,5 @@
 ## Hi there 👋
-{#name} ### My name is Raghav Naduvakkat Areekara, I am a Grade 11 student in SciTech at Port Credit Secondary School
+### My name is Raghav Naduvakkat Areekara, I am a Grade 11 student in SciTech at Port Credit Secondary School {#name}
 
 > <797317@pdsb.net> is my email. If you would like to contact me, please feel free to.
 
@@ -20,10 +20,3 @@ Here are some ideas to get you started:
 
 
 
-
-
-
-
-
-
-[Go back to head](#name)
