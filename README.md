@@ -18,4 +18,4 @@
 <!-- - ⚡ Fun fact: ... -->
  ---
 
-- **Projects:** <github.com/raghavn1/2DArkham>
+- **Projects:** <https://github.com/raghavn1/2DArkham>
