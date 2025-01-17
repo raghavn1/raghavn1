@@ -18,4 +18,4 @@
 <!-- - ⚡ Fun fact: ... -->
  ---
 
-- **Projects:** [2DArkham](github.com/raghavn1/2DArkham?tab=readme-ov-file#2darkham)
+- **Projects:** [2DArkham](https://github.com/raghavn1/2DArkham#2darkham)
