@@ -19,8 +19,8 @@
  ---
 
 - **Projects:**
-  - [2DArkham](https://github.com/raghavn1/2DArkham#2darkham)
+ - [2DArkham](https://github.com/raghavn1/2DArkham#2darkham)
 
-  - [Personal Website](https://github.com/raghavn1/raghavn1.github.io)
+ - [Personal Website](https://github.com/raghavn1/raghavn1.github.io)
   
-  - [Home](https://github.com/raghavn1)
+ - [Home](https://github.com/raghavn1)
