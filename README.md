@@ -1,5 +1,7 @@
 ## Hi there 👋
-### My name is Raghav Naduvakkat Areekara, I am a Grade 11 student in SciTech at Port Credit Secondary School {#name}
+### My name is Raghav Naduvakkat Areekara, I am a Grade 11 student in SciTech at Port Credit Secondary School
+
+-I am working on a couple of products currently including a personal website using Github Pages as well as a 2D side-scrolling platformer game using LibGDX with Java!
 
 > <797317@pdsb.net> is my email. If you would like to contact me, please feel free to.
 
