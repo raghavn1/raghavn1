@@ -18,4 +18,5 @@
 <!-- - ⚡ Fun fact: ... -->
  ---
 
-- **Projects:** [2DArkham](https://github.com/raghavn1/2DArkham#2darkham)
+- **Projects:** <a href="https://github.com/raghavn1/2DArkham#2darkham">2DArkham</a>
+[2DArkham](https://github.com/raghavn1/2DArkham#2darkham)
